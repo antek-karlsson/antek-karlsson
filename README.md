@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony!
 - 🛠️ Currently working as a junior Vue.js dev @Monterail.
-- 👀 I’m currently exploring React, Vue and surrounding frameworks aswell as Typescript.
+- 👀 I’m currently exploring React, Vue and surrounding frameworks as well as Typescript.
 - 💌 twitter @Hjalmar_K_sson
 
 <!---
